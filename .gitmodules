@@ -1,0 +1,3 @@
+[submodule "user-projects"]
+	path = user-projects
+	url = git@github.com:AURIN/user-projects.git
